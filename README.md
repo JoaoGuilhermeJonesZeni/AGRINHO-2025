@@ -78,5 +78,11 @@ Todas as imagens e recursos utilizados têm finalidade educativa.
 
 ---
 
-## Estrutura de Pastas
+##  Licença
 
+Distribuído sob a licença **MIT**.  
+Você pode usar, modificar e compartilhar este projeto livremente, desde que mantenha os créditos ao autor original.
+
+🔗 [Leia mais sobre a Licença MIT](https://opensource.org/licenses/MIT)
+
+---
