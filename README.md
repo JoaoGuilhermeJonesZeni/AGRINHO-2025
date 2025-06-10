@@ -60,7 +60,7 @@ Este é um site educativo criado como parte do projeto **Agrinho 2025**, com o t
 ## Autor
 
 Desenvolvido por **João Guilherme Jones Zeni** como parte de um trabalho educacional integrado ao programa Agrinho.  
-Feito com dedicação usando **HTML5**, **CSS3** e organização com **Bootstrap 5**.  
+Feito com dedicação usando **HTML**, **CSS** e organização com **Bootstrap 5**.  
 Todas as imagens e recursos utilizados têm finalidade educativa.
 
 ---
